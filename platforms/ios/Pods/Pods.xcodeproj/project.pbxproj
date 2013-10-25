@@ -10,67 +10,118 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>09A99741D4484A43AD16671D</key>
+		<key>0C1FE541F8144E10A829AA09</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-OpenTokPhonegap-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0EA44036FEDE4F3CB3016A4C</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>8F34621AC5664A09B92F7AB4</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Resources</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1CD7A0DED5DC4B4BACE6651B</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>MobileCoreServices.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>1E09575154E7419892DDB078</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>AVFoundation.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>20559E2676C9445C99BE5C13</key>
 		<dict>
 			<key>containerPortal</key>
-			<string>71FDF5BA43EB48F083E04E95</string>
+			<string>72BB60C1A35D4D7985754993</string>
 			<key>isa</key>
 			<string>PBXContainerItemProxy</string>
 			<key>proxyType</key>
 			<string>1</string>
 			<key>remoteGlobalIDString</key>
-			<string>FE4BC38E16324A14A5C4B1FA</string>
-			<key>remoteInfo</key>
-			<string>Pods-OpenTokPhonegap</string>
-		</dict>
-		<key>0C796836A3BE4654BD262D52</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2A4FCA03B07D475F8A58062A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0DAF70F0E5B247128543BBE6</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>71FDF5BA43EB48F083E04E95</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>2C3A1B3996A748C1BB44E8EC</string>
+			<string>57205D72A9404BA5A799EFAC</string>
 			<key>remoteInfo</key>
 			<string>Pods-OpenTokSDK-WebRTC</string>
 		</dict>
-		<key>107D401FF9094A69812B1AFD</key>
+		<key>23859877BE4141B5BB44B002</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
+			<key>containerPortal</key>
+			<string>72BB60C1A35D4D7985754993</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>57205D72A9404BA5A799EFAC</string>
+			<key>remoteInfo</key>
+			<string>Pods-OpenTokSDK-WebRTC</string>
+		</dict>
+		<key>23C839F40606415EBFA0A313</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.script.sh</string>
+			<key>path</key>
+			<string>Pods-resources.sh</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>28FD860E4CB443E69B9EA6E4</key>
+		<dict>
+			<key>children</key>
 			<array>
-				<string>83F1B54ED61C4A499627FF2E</string>
-				<string>918DAF01077B450EBEC6B154</string>
-				<string>0C796836A3BE4654BD262D52</string>
-				<string>C8866B2CD7D746CC8406D854</string>
-				<string>511FCBBF767B4F8E85DD7289</string>
-				<string>72CBB4D653704CA2A4D8EB7A</string>
-				<string>F98A23C1317149519C87F721</string>
-				<string>659FE217DAD540EDBDD676F9</string>
-				<string>F139BF079B4B43C8BFC83084</string>
-				<string>33AB6F01C7AE4951955C40B4</string>
-				<string>C27FE199031C4B0885573100</string>
-				<string>DB09B180670A4A7DBB5524B0</string>
-				<string>7024D6BBBCFF4F4BBB3C8443</string>
-				<string>C6CB39A8A5B84D0BB6133A80</string>
-				<string>31FCFC53512541B1B95D674F</string>
+				<string>AC5F762F30754793ABE53D1C</string>
 			</array>
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>143C21B5BD9140B88E4A1C4B</key>
+		<key>29C4378715D5450EA1C09B3D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4C1A9159F0DE494DB1A6FBF0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2C40B5E795E44762A324B853</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -85,170 +136,46 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>1998EFEE13CE4B18B0624364</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D072448D25CF4D96B12C4177</string>
-				<string>2559FCCE3ED9478BB7EC8300</string>
-				<string>CC4361B6CA0043BEA4AAE45C</string>
-				<string>BC3B4E3E4C4B45CF8A35F72E</string>
-				<string>D970E4BE6F574BE0963637B6</string>
-				<string>B18DE20A9C3A4DB7B6F82B47</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1B350A9A3D7F4D0D894CB658</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-OpenTokSDK-WebRTC-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1BD44ACEDBBC4429B859DCF7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>OpenTokPlugin.m</string>
-			<key>path</key>
-			<string>Classes/OpenTokPlugin.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1DD9D02777584245ABD8C62E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-OpenTokPhonegap-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1F005B55E5CE4CFCA0CE66A6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6A55AF465E6044D4A41B69B7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>241FF33B0EF4418F95A65AD5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-OpenTokSDK-WebRTC-Private.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>251D59A5B0DC46B8A315ABAF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>9A1EFA939B494DB8800A56C0</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>2559FCCE3ED9478BB7EC8300</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>A443407D45584FF5B7AA2680</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2A4FCA03B07D475F8A58062A</key>
+		<key>2C8703E3D9C34235BC34998B</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>CFNetwork.framework</string>
+			<string>Security.framework</string>
 			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework</string>
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>2A967AF3ABBF4514A18EB065</key>
+		<key>2E69F6A2CB3D4CA294AFBEE6</key>
 		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
 			<key>includeInIndex</key>
-			<string>1</string>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>2EF75879F831456C97901EFD</key>
+		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>OTSubscriber.h</string>
+			<string>AudioToolbox.framework</string>
 			<key>path</key>
-			<string>Opentok.framework/Versions/A/Headers/OTSubscriber.h</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AudioToolbox.framework</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>2BDCCFA4202F4345AAE6829F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2A967AF3ABBF4514A18EB065</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2C3A1B3996A748C1BB44E8EC</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>2CA0FE97CE034E019FE788A3</string>
-			<key>buildPhases</key>
-			<array>
-				<string>7356DFAA7C874266A9EBAACC</string>
-				<string>107D401FF9094A69812B1AFD</string>
-				<string>46F5E1021555483D9B5C1B01</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-OpenTokSDK-WebRTC</string>
-			<key>productName</key>
-			<string>Pods-OpenTokSDK-WebRTC</string>
-			<key>productReference</key>
-			<string>A42BE8C4D4FB4F85B598C3DA</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>2C97CD16B2A04BF5A6BEC795</key>
+		<key>2F72F6FA3754488FA4EBE52E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -263,151 +190,71 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2CA0FE97CE034E019FE788A3</key>
+		<key>33D0CEAB79DB423C8FD28F8E</key>
 		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>765359B263E24DF3B963A228</string>
-				<string>5AA432921B014917B602FB2A</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
 			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>3028F398E2044E3CB836C781</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5E149E4D28774F3980C765CD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>31FCFC53512541B1B95D674F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>371943DADEA14A458C4B337B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>33AB6F01C7AE4951955C40B4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>64103820B067411491EFCD14</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>366788F0830E480E8F13670B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FF8DC6CEC2204D6194D58265</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>367BF68117854E86BD4C0270</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>Pods-environment.h</string>
+			<string>libPods-OpenTokPhonegap.a</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>36CF2BA6A1924DC58D85B9A9</key>
+		<key>392D5504E18E441F90BA8231</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>baseConfigurationReference</key>
+			<string>BD528D1C32EF48549C2A4EAE</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Pods-OpenTokSDK-WebRTC-prefix.pch</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>5.0</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+			</dict>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>371943DADEA14A458C4B337B</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
+			<string>XCBuildConfiguration</string>
 			<key>name</key>
-			<string>UIKit.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
+			<string>Debug</string>
 		</dict>
-		<key>385553CC8F274C0CBD6006EC</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>3E0C847655924215AF4A377B</string>
-				<string>8E007D23795B429CB79C7891</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>394DFF6255AD42AFB2D639AB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>OTSession.h</string>
-			<key>path</key>
-			<string>Opentok.framework/Versions/A/Headers/OTSession.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3C184FE05204482B9BFF96DC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>B5B00E766C32465B98C0E536</string>
-				<string>F64BEA23384643FDAB5005B5</string>
-				<string>2A4FCA03B07D475F8A58062A</string>
-				<string>E83F29E8843F4939A9601493</string>
-				<string>99D6FCDBF35144FAA7169A37</string>
-				<string>A19F0E4106CA4EE1942636C3</string>
-				<string>EE0058A9AB934CBCAD2739C0</string>
-				<string>6A55AF465E6044D4A41B69B7</string>
-				<string>96D76A77604F40EE96AA0101</string>
-				<string>64103820B067411491EFCD14</string>
-				<string>A014EA5DBB924DA8B9047401</string>
-				<string>A9A661C8ABA8450A89C50A70</string>
-				<string>7806F5951BDF48108258B1B5</string>
-				<string>4800ABA1136845BA9C2D2DBD</string>
-				<string>371943DADEA14A458C4B337B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3E0C847655924215AF4A377B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1BD44ACEDBBC4429B859DCF7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>406FA601507B4685A23E2C93</key>
+		<key>39723E852F25439DA1153BDB</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -416,107 +263,63 @@
 			<key>lastKnownFileType</key>
 			<string>text.xcconfig</string>
 			<key>path</key>
-			<string>Pods.xcconfig</string>
+			<string>Pods-OpenTokPhonegap-Private.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>46F5E1021555483D9B5C1B01</key>
+		<key>39ECC4021E334CF293D19DD7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D7674F881A0045DBA3EB25AD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>3AC2C2DE2A5D4A159D013DBD</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>DBF27A95572A4E43829E194C</string>
-				<string>366788F0830E480E8F13670B</string>
-				<string>3028F398E2044E3CB836C781</string>
-				<string>67533B3C03864B939E182445</string>
-				<string>70E9B54C7E9A4CCE91B59E8E</string>
-				<string>2BDCCFA4202F4345AAE6829F</string>
-				<string>5739CEDD3873414CAD3E40FB</string>
-				<string>5B5D236E3F0C47069E27C30E</string>
+				<string>6BC5EB126AD84344A32673CA</string>
+				<string>64F06F9DA55848749DF335E5</string>
+				<string>66E2CD1B0D6549C4B0B6DC93</string>
+				<string>B83D1F178837427A9C1D1DF1</string>
+				<string>E60AC6E3E892401897AC6DA2</string>
+				<string>58B4209B335F48F387AD503B</string>
+				<string>81B80C9366F9425CA0EBAC03</string>
+				<string>6242A5D7D5C342BD9D5A4D3F</string>
 			</array>
 			<key>isa</key>
 			<string>PBXHeadersBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>4800ABA1136845BA9C2D2DBD</key>
+		<key>3DB55986DC5C4E809FF8EB13</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>SystemConfiguration.framework</string>
+			<string>QuartzCore.framework</string>
 			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework</string>
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>4E72466F02AC4275B3DB510A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-OpenTokSDK-WebRTC-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>502F4B005434425385A24B59</key>
+		<key>3E4453F3F6084A228E504B01</key>
 		<dict>
 			<key>fileRef</key>
-			<string>6A55AF465E6044D4A41B69B7</string>
+			<string>C605278A359A4BBD96D721FC</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>511FCBBF767B4F8E85DD7289</key>
-		<dict>
-			<key>fileRef</key>
-			<string>99D6FCDBF35144FAA7169A37</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>54F2802F151741CAB35A69E0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.plug-in</string>
-			<key>name</key>
-			<string>opentok.bundle</string>
-			<key>path</key>
-			<string>Opentok.framework/Versions/A/Resources/opentok.bundle</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5697475B3CB34B8D9BD90139</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>FE4BC38E16324A14A5C4B1FA</string>
-			<key>targetProxy</key>
-			<string>09A99741D4484A43AD16671D</string>
-		</dict>
-		<key>5739CEDD3873414CAD3E40FB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>143C21B5BD9140B88E4A1C4B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>58EB4C4B3D264148B0BBDB0F</key>
+		<key>3E582BF64EFF4A43B987C4C2</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>B400AAC9007349D79E28D622</string>
-				<string>E176B541B7E646E5A68BCCCB</string>
+				<string>392D5504E18E441F90BA8231</string>
+				<string>E0E1F16BD0B949EFB2AF2526</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -525,541 +328,42 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>5A1B6F3D22F041B1B936F7B4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5AA432921B014917B602FB2A</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>241FF33B0EF4418F95A65AD5</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Pods-OpenTokSDK-WebRTC-prefix.pch</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>5.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>5B5D236E3F0C47069E27C30E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>689191A7079B4CD18EF11915</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5E149E4D28774F3980C765CD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>OTPublisher.h</string>
-			<key>path</key>
-			<string>Opentok.framework/Versions/A/Headers/OTPublisher.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5E497C7C7FD8466A8772B8CA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-OpenTokSDK-WebRTC.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>64103820B067411491EFCD14</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>OpenGLES.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>659FE217DAD540EDBDD676F9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6A55AF465E6044D4A41B69B7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>67533B3C03864B939E182445</key>
-		<dict>
-			<key>fileRef</key>
-			<string>394DFF6255AD42AFB2D639AB</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>689191A7079B4CD18EF11915</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>Opentok.h</string>
-			<key>path</key>
-			<string>Opentok.framework/Versions/A/Headers/Opentok.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6A55AF465E6044D4A41B69B7</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>6C7E54F9979242F187A1B555</key>
+		<key>3F3A51969D0E443C84761216</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>1F005B55E5CE4CFCA0CE66A6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6F541271040A4CC68A7323DF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A42BE8C4D4FB4F85B598C3DA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7024D6BBBCFF4F4BBB3C8443</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7806F5951BDF48108258B1B5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>70E9B54C7E9A4CCE91B59E8E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2C97CD16B2A04BF5A6BEC795</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>71FDF5BA43EB48F083E04E95</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0500</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>E8ED335F9EEF49F48186045A</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>1998EFEE13CE4B18B0624364</string>
-			<key>productRefGroup</key>
-			<string>D970E4BE6F574BE0963637B6</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>F794F24BFBA544128EFFFE67</string>
-				<string>FE4BC38E16324A14A5C4B1FA</string>
-				<string>2C3A1B3996A748C1BB44E8EC</string>
-			</array>
-		</dict>
-		<key>72CBB4D653704CA2A4D8EB7A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A19F0E4106CA4EE1942636C3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7356DFAA7C874266A9EBAACC</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>9569196D53504AF796E11365</string>
+				<string>524D2CE94E7D4D69B91A2D6D</string>
 			</array>
 			<key>isa</key>
 			<string>PBXSourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>765359B263E24DF3B963A228</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>241FF33B0EF4418F95A65AD5</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Pods-OpenTokSDK-WebRTC-prefix.pch</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>5.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>7806F5951BDF48108258B1B5</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Security.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>7DEE8820BE7D45928B0B8218</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>1DD9D02777584245ABD8C62E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DSTROOT</key>
-				<string>/tmp/xcodeproj.dst</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Pods-OpenTokPhonegap-prefix.pch</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_VERSION</key>
-				<string>com.apple.compilers.llvm.clang.1_0</string>
-				<key>INSTALL_PATH</key>
-				<string>$(BUILT_PRODUCTS_DIR)</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>5.0</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
-				<string>$(TARGET_NAME)</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>83F1B54ED61C4A499627FF2E</key>
+		<key>3FBDAADA34DB4AA888B4EBF0</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B5B00E766C32465B98C0E536</string>
+			<string>D8D46717B9884CD385BEBA0D</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>8491175FCB0F4C01995214F8</key>
+		<key>4166DC588E114300B03466A8</key>
 		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>8BC7DE51948B4A4F9062261A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D5BE9BF7C346486CB4F89708</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8E007D23795B429CB79C7891</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9C96005DDD03497696F56201</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>918DAF01077B450EBEC6B154</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F64BEA23384643FDAB5005B5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>9569196D53504AF796E11365</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1B350A9A3D7F4D0D894CB658</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>96D76A77604F40EE96AA0101</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>MobileCoreServices.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>99D6FCDBF35144FAA7169A37</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreMedia.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMedia.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>9A1EFA939B494DB8800A56C0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B240FE69D2AB4EF08813457B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>9B39E1E0AC034A9687BFD5E8</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>2C3A1B3996A748C1BB44E8EC</string>
-			<key>targetProxy</key>
-			<string>0DAF70F0E5B247128543BBE6</string>
-		</dict>
-		<key>9C96005DDD03497696F56201</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-OpenTokPhonegap-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A014EA5DBB924DA8B9047401</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Opentok.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Opentok.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>A19F0E4106CA4EE1942636C3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreTelephony.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreTelephony.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>A42BE8C4D4FB4F85B598C3DA</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-OpenTokSDK-WebRTC.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>A443407D45584FF5B7AA2680</key>
-		<dict>
-			<key>children</key>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
 			<array>
-				<string>B240FE69D2AB4EF08813457B</string>
-				<string>1BD44ACEDBBC4429B859DCF7</string>
-				<string>DE4FB8A606EF4661861312EB</string>
+				<string>A8FE6B9A971A49F390B02D3A</string>
+				<string>68349EB86036427D9F7E764D</string>
+				<string>56D5A1AE7825420AAFD5BA43</string>
 			</array>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>OpenTokPhonegap</string>
-			<key>path</key>
-			<string>../../../OpenTokPhonegap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
-		<key>A48C1CBAE4DB433BA7ACB73D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-OpenTokPhonegap.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A7B80DC973A2476BBFF7DC81</key>
+		<key>420140061F6940C8B3BA5212</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -1117,159 +421,38 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>A810C43C695E41A6AC4F890A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A9A661C8ABA8450A89C50A70</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>QuartzCore.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>AA69CED9E3AB44079AC4A7B7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-OpenTokPhonegap-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AFB2FC02555D47ABA3E4EF07</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>B0D53F0E52DC4E5D805D511C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>B0D53F0E52DC4E5D805D511C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5A1B6F3D22F041B1B936F7B4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>B18DE20A9C3A4DB7B6F82B47</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C8D12F92D88F441E927EFAAB</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B1E0F4AA12F341D8A0B3AABE</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>CEFE9C93B7034079A93DD333</string>
-				<string>FF8DC6CEC2204D6194D58265</string>
-				<string>5E149E4D28774F3980C765CD</string>
-				<string>394DFF6255AD42AFB2D639AB</string>
-				<string>2C97CD16B2A04BF5A6BEC795</string>
-				<string>2A967AF3ABBF4514A18EB065</string>
-				<string>143C21B5BD9140B88E4A1C4B</string>
-				<string>689191A7079B4CD18EF11915</string>
-				<string>D25C3430588246CC93DAFEF7</string>
-				<string>D87E7E187D1A41969E85D586</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>OpenTokSDK-WebRTC</string>
-			<key>path</key>
-			<string>OpenTokSDK-WebRTC</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B240FE69D2AB4EF08813457B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>OpenTokPlugin.h</string>
-			<key>path</key>
-			<string>Classes/OpenTokPlugin.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B3251633E7E44F38B061EB7D</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>2C3A1B3996A748C1BB44E8EC</string>
-			<key>targetProxy</key>
-			<string>C903536C04BC4164B15E7DC4</string>
-		</dict>
-		<key>B400AAC9007349D79E28D622</key>
+		<key>42B7DDC4501F447CAA8E9B97</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>406FA601507B4685A23E2C93</string>
+			<string>4EE66C2A28074D7AB1471EF0</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
 				<string>NO</string>
 				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
+				<string>YES</string>
 				<key>DSTROOT</key>
 				<string>/tmp/xcodeproj.dst</string>
 				<key>GCC_C_LANGUAGE_STANDARD</key>
 				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
 				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
 				<string>YES</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
 				<key>GCC_VERSION</key>
 				<string>com.apple.compilers.llvm.clang.1_0</string>
 				<key>INSTALL_PATH</key>
 				<string>$(BUILT_PRODUCTS_DIR)</string>
 				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
 				<string>5.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
 				<key>OTHER_LDFLAGS</key>
 				<string></string>
 				<key>PRODUCT_NAME</key>
@@ -1280,71 +463,219 @@
 				<string>iphoneos</string>
 				<key>SKIP_INSTALL</key>
 				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>B4B7CB18BD6344749EFE1C40</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>7DEE8820BE7D45928B0B8218</string>
-				<string>C001F77A5E634142A2998B2B</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
 			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
 		</dict>
-		<key>B5B00E766C32465B98C0E536</key>
+		<key>46EB930EE5EE4DA58DA10CB1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Pods-environment.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4C1A9159F0DE494DB1A6FBF0</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>AVFoundation.framework</string>
+			<string>Foundation.framework</string>
 			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AVFoundation.framework</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework</string>
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>BC3B4E3E4C4B45CF8A35F72E</key>
+		<key>4ECFAC5A88A74F0BA647D758</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>B1E0F4AA12F341D8A0B3AABE</string>
-			</array>
+			<key>fileRef</key>
+			<string>F6A181DC3A6D4DE897F3869A</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>4EE66C2A28074D7AB1471EF0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>BE892FF29EC54CDE9D724765</key>
+		<key>524D2CE94E7D4D69B91A2D6D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>669C08C0B0EF4AAB9D7AB651</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>5254BDA306774467A94CE65B</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>502F4B005434425385A24B59</string>
-				<string>8BC7DE51948B4A4F9062261A</string>
-				<string>6F541271040A4CC68A7323DF</string>
+				<string>639278BD35CE43BCA2566831</string>
+				<string>84093D29E4B0473CBEE0FF07</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>5391EF4702C14DECA22B66C2</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>96B441160D314E35B78A0E6F</string>
 			</array>
 			<key>isa</key>
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>C001F77A5E634142A2998B2B</key>
+		<key>54C9A55F240944A8B10C6D7E</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>A1C28F5EAFDE48DFBD87F81C</string>
+				<string>7CED0C5E25424C64A30A5D3A</string>
+				<string>6A04BB98FC7A4420ACFD3461</string>
+				<string>D01D10E279CB42218A434B5C</string>
+				<string>2F72F6FA3754488FA4EBE52E</string>
+				<string>BB9748C7711F4B6CAAB9C06D</string>
+				<string>2C40B5E795E44762A324B853</string>
+				<string>F1896998AD594518B9FF3125</string>
+				<string>0EA44036FEDE4F3CB3016A4C</string>
+				<string>FA3BA64CE210499DBE9DFC6D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>OpenTokSDK-WebRTC</string>
+			<key>path</key>
+			<string>OpenTokSDK-WebRTC</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>56305BEF506E458BB4F7F73F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>name</key>
+			<string>OpenTokPlugin.m</string>
+			<key>path</key>
+			<string>Classes/OpenTokPlugin.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>56D5A1AE7825420AAFD5BA43</key>
+		<dict>
+			<key>fileRef</key>
+			<string>97C863AAED2F4B3A8EDA4915</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>57205D72A9404BA5A799EFAC</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>3E582BF64EFF4A43B987C4C2</string>
+			<key>buildPhases</key>
+			<array>
+				<string>E167CDC0A59C4A37BDBDACC6</string>
+				<string>A8D7D21D6DC3427495E304AE</string>
+				<string>3AC2C2DE2A5D4A159D013DBD</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-OpenTokSDK-WebRTC</string>
+			<key>productName</key>
+			<string>Pods-OpenTokSDK-WebRTC</string>
+			<key>productReference</key>
+			<string>97C863AAED2F4B3A8EDA4915</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>5849048800054C76B1ABAC9F</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>B0B245D88C7C457EB589D515</string>
+				<string>39723E852F25439DA1153BDB</string>
+				<string>E1D445AA23844D15B866A1C1</string>
+				<string>0C1FE541F8144E10A829AA09</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
+		<key>58B4209B335F48F387AD503B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BB9748C7711F4B6CAAB9C06D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>58DD3F0D4B7E4ADDA9BA8BCC</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>BCE09D4477FF45A9AE2A4F19</string>
+			<key>buildPhases</key>
+			<array>
+				<string>5254BDA306774467A94CE65B</string>
+				<string>5391EF4702C14DECA22B66C2</string>
+				<string>F7C448AC55A340C3BA64AEF5</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>AFFF9FED3B2B46F8ACECC876</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods-OpenTokPhonegap</string>
+			<key>productName</key>
+			<string>Pods-OpenTokPhonegap</string>
+			<key>productReference</key>
+			<string>33D0CEAB79DB423C8FD28F8E</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>599779E9A328443B8E2C8F49</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>1DD9D02777584245ABD8C62E</string>
+			<string>39723E852F25439DA1153BDB</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
@@ -1393,72 +724,7 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>C27FE199031C4B0885573100</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A014EA5DBB924DA8B9047401</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C6CB39A8A5B84D0BB6133A80</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4800ABA1136845BA9C2D2DBD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C8866B2CD7D746CC8406D854</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E83F29E8843F4939A9601493</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C8D12F92D88F441E927EFAAB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>406FA601507B4685A23E2C93</string>
-				<string>A810C43C695E41A6AC4F890A</string>
-				<string>36CF2BA6A1924DC58D85B9A9</string>
-				<string>5A1B6F3D22F041B1B936F7B4</string>
-				<string>367BF68117854E86BD4C0270</string>
-				<string>F6642F57B7DD4D098E1D0E24</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C903536C04BC4164B15E7DC4</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>71FDF5BA43EB48F083E04E95</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>2C3A1B3996A748C1BB44E8EC</string>
-			<key>remoteInfo</key>
-			<string>Pods-OpenTokSDK-WebRTC</string>
-		</dict>
-		<key>CC4361B6CA0043BEA4AAE45C</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3C184FE05204482B9BFF96DC</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CEFE9C93B7034079A93DD333</key>
+		<key>5B3FB769D95042E0B3A50D16</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1466,14 +732,32 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>OTConnection.h</string>
 			<key>path</key>
-			<string>Opentok.framework/Versions/A/Headers/OTConnection.h</string>
+			<string>Pods-OpenTokSDK-WebRTC-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D072448D25CF4D96B12C4177</key>
+		<key>6169FE6D959148789075ACCD</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>Opentok.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Opentok.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>6242A5D7D5C342BD9D5A4D3F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F1896998AD594518B9FF3125</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>62E40683955645D18F11526D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1490,125 +774,97 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>D25C3430588246CC93DAFEF7</key>
+		<key>639278BD35CE43BCA2566831</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>54F2802F151741CAB35A69E0</string>
-			</array>
+			<key>fileRef</key>
+			<string>56305BEF506E458BB4F7F73F</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Resources</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>D5BE9BF7C346486CB4F89708</key>
+		<key>64F06F9DA55848749DF335E5</key>
 		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
+			<key>fileRef</key>
+			<string>7CED0C5E25424C64A30A5D3A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>669C08C0B0EF4AAB9D7AB651</key>
+		<dict>
 			<key>includeInIndex</key>
-			<string>0</string>
+			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>libPods-OpenTokPhonegap.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>D87E7E187D1A41969E85D586</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>5E497C7C7FD8466A8772B8CA</string>
-				<string>241FF33B0EF4418F95A65AD5</string>
-				<string>1B350A9A3D7F4D0D894CB658</string>
-				<string>4E72466F02AC4275B3DB510A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>D970E4BE6F574BE0963637B6</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>8491175FCB0F4C01995214F8</string>
-				<string>D5BE9BF7C346486CB4F89708</string>
-				<string>A42BE8C4D4FB4F85B598C3DA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
+			<string>Pods-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DB09B180670A4A7DBB5524B0</key>
+		<key>66E2CD1B0D6549C4B0B6DC93</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A9A661C8ABA8450A89C50A70</string>
+			<string>6A04BB98FC7A4420ACFD3461</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>DBF27A95572A4E43829E194C</key>
+		<key>68349EB86036427D9F7E764D</key>
 		<dict>
 			<key>fileRef</key>
-			<string>CEFE9C93B7034079A93DD333</string>
+			<string>33D0CEAB79DB423C8FD28F8E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>DE4FB8A606EF4661861312EB</key>
+		<key>6A04BB98FC7A4420ACFD3461</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>A48C1CBAE4DB433BA7ACB73D</string>
-				<string>1DD9D02777584245ABD8C62E</string>
-				<string>9C96005DDD03497696F56201</string>
-				<string>AA69CED9E3AB44079AC4A7B7</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>Support Files</string>
+			<string>OTPublisher.h</string>
+			<key>path</key>
+			<string>Opentok.framework/Versions/A/Headers/OTPublisher.h</string>
 			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E176B541B7E646E5A68BCCCB</key>
+		<key>6AF6E361D0BF4336A27D3B9D</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>406FA601507B4685A23E2C93</string>
+			<string>39723E852F25439DA1153BDB</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>ALWAYS_SEARCH_USER_PATHS</key>
 				<string>NO</string>
 				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
+				<string>NO</string>
 				<key>DSTROOT</key>
 				<string>/tmp/xcodeproj.dst</string>
 				<key>GCC_C_LANGUAGE_STANDARD</key>
 				<string>gnu99</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
 				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
 				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Pods-OpenTokPhonegap-prefix.pch</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
 				<key>GCC_VERSION</key>
 				<string>com.apple.compilers.llvm.clang.1_0</string>
 				<key>INSTALL_PATH</key>
 				<string>$(BUILT_PRODUCTS_DIR)</string>
 				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
 				<string>5.0</string>
-				<key>OTHER_CFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>OTHER_CPLUSPLUSFLAGS</key>
-				<array>
-					<string>-DNS_BLOCK_ASSERTIONS=1</string>
-					<string>$(inherited)</string>
-				</array>
 				<key>OTHER_LDFLAGS</key>
 				<string></string>
 				<key>PRODUCT_NAME</key>
@@ -1619,33 +875,547 @@
 				<string>iphoneos</string>
 				<key>SKIP_INSTALL</key>
 				<string>YES</string>
-				<key>VALIDATE_PRODUCT</key>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>6AF90C7BD5CA40F88FE9E0AD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3DB55986DC5C4E809FF8EB13</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6B021882F95D40988932CE8D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1E09575154E7419892DDB078</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6B3931D8AC10446480C8A83A</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>4EE66C2A28074D7AB1471EF0</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>NO</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_DYNAMIC_NO_PIC</key>
+				<string>NO</string>
+				<key>GCC_OPTIMIZATION_LEVEL</key>
+				<string>0</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
+				<array>
+					<string>DEBUG=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
+				<string>NO</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>5.0</string>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
 				<string>YES</string>
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
-			<string>Release</string>
+			<string>Debug</string>
 		</dict>
-		<key>E83F29E8843F4939A9601493</key>
+		<key>6BC5EB126AD84344A32673CA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A1C28F5EAFDE48DFBD87F81C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>6F84F70115CD46A58BC165C0</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>F88E262AD98E499398E170DD</string>
+			<key>buildPhases</key>
+			<array>
+				<string>3F3A51969D0E443C84761216</string>
+				<string>4166DC588E114300B03466A8</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>CBC07A563BC24F14869BE970</string>
+				<string>74133178B17C48199E316D4D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>productName</key>
+			<string>Pods</string>
+			<key>productReference</key>
+			<string>2E69F6A2CB3D4CA294AFBEE6</string>
+			<key>productType</key>
+			<string>com.apple.product-type.library.static</string>
+		</dict>
+		<key>723F2205E1E64F6C95343392</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CA7A9DDCF9C44B9E8A0784EA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>72BB60C1A35D4D7985754993</key>
+		<dict>
+			<key>attributes</key>
+			<dict>
+				<key>LastUpgradeCheck</key>
+				<string>0500</string>
+			</dict>
+			<key>buildConfigurationList</key>
+			<string>CAD26F4336E34992939310E6</string>
+			<key>compatibilityVersion</key>
+			<string>Xcode 3.2</string>
+			<key>developmentRegion</key>
+			<string>English</string>
+			<key>hasScannedForEncodings</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXProject</string>
+			<key>knownRegions</key>
+			<array>
+				<string>en</string>
+			</array>
+			<key>mainGroup</key>
+			<string>85A3B6BAEE0D41529A2EF329</string>
+			<key>productRefGroup</key>
+			<string>B7A5F6B34C084A2FB156001C</string>
+			<key>projectDirPath</key>
+			<string></string>
+			<key>projectReferences</key>
+			<array/>
+			<key>projectRoot</key>
+			<string></string>
+			<key>targets</key>
+			<array>
+				<string>6F84F70115CD46A58BC165C0</string>
+				<string>58DD3F0D4B7E4ADDA9BA8BCC</string>
+				<string>57205D72A9404BA5A799EFAC</string>
+			</array>
+		</dict>
+		<key>74133178B17C48199E316D4D</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>target</key>
+			<string>57205D72A9404BA5A799EFAC</string>
+			<key>targetProxy</key>
+			<string>20559E2676C9445C99BE5C13</string>
+		</dict>
+		<key>7CED0C5E25424C64A30A5D3A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>OTError.h</string>
+			<key>path</key>
+			<string>Opentok.framework/Versions/A/Headers/OTError.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7F73E680A94C45FB9A13BA59</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>CoreAudio.framework</string>
+			<string>UIKit.framework</string>
 			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreAudio.framework</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework</string>
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>E8ED335F9EEF49F48186045A</key>
+		<key>81B80C9366F9425CA0EBAC03</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2C40B5E795E44762A324B853</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>84093D29E4B0473CBEE0FF07</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E1D445AA23844D15B866A1C1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>850E12C170F3428196ED95DD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6169FE6D959148789075ACCD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>85A3B6BAEE0D41529A2EF329</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>62E40683955645D18F11526D</string>
+				<string>E54B3DF6545942478EAEA4B8</string>
+				<string>28FD860E4CB443E69B9EA6E4</string>
+				<string>EEE572DBD8BF42ED9367A2AF</string>
+				<string>B7A5F6B34C084A2FB156001C</string>
+				<string>DE9879994AD448BE8432BEBD</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>86FDB81C22C74BFC8120F02A</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>CoreTelephony.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreTelephony.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>8C65E829D81A40038956C2B0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text</string>
+			<key>path</key>
+			<string>Pods-acknowledgements.markdown</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8DF8C74366C94E3DAA8C98E2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F7C7C548BCD94C7AAC5779EA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>8F34621AC5664A09B92F7AB4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.plug-in</string>
+			<key>name</key>
+			<string>opentok.bundle</string>
+			<key>path</key>
+			<string>Opentok.framework/Versions/A/Resources/opentok.bundle</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8FB3CB7250334EF29DEEB628</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>OpenTokPlugin.h</string>
+			<key>path</key>
+			<string>Classes/OpenTokPlugin.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8FCD5A20C2CE4866902C0F36</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>OpenGLES.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>9613CF0B0BFB43998CA7F38F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Pods-acknowledgements.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>96B441160D314E35B78A0E6F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4C1A9159F0DE494DB1A6FBF0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>97C863AAED2F4B3A8EDA4915</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>archive.ar</string>
+			<key>includeInIndex</key>
+			<string>0</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>libPods-OpenTokSDK-WebRTC.a</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>A1C28F5EAFDE48DFBD87F81C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>OTConnection.h</string>
+			<key>path</key>
+			<string>Opentok.framework/Versions/A/Headers/OTConnection.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A2714621430949CC83C43B38</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>4EE66C2A28074D7AB1471EF0</string>
+				<string>8C65E829D81A40038956C2B0</string>
+				<string>9613CF0B0BFB43998CA7F38F</string>
+				<string>669C08C0B0EF4AAB9D7AB651</string>
+				<string>46EB930EE5EE4DA58DA10CB1</string>
+				<string>23C839F40606415EBFA0A313</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A87DF956B956436697EDEFA8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2C8703E3D9C34235BC34998B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A8D7D21D6DC3427495E304AE</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>6B021882F95D40988932CE8D</string>
+				<string>BDABF484A90240F5AFA3105E</string>
+				<string>39ECC4021E334CF293D19DD7</string>
+				<string>4ECFAC5A88A74F0BA647D758</string>
+				<string>3FBDAADA34DB4AA888B4EBF0</string>
+				<string>F1CEAC2CB4B4405C9095BC56</string>
+				<string>3E4453F3F6084A228E504B01</string>
+				<string>29C4378715D5450EA1C09B3D</string>
+				<string>BA80BF8C5B4940178200BB61</string>
+				<string>AD51138E34CE4D24BDBE3045</string>
+				<string>850E12C170F3428196ED95DD</string>
+				<string>6AF90C7BD5CA40F88FE9E0AD</string>
+				<string>A87DF956B956436697EDEFA8</string>
+				<string>8DF8C74366C94E3DAA8C98E2</string>
+				<string>F60B0DA475B34FBEACE125F5</string>
+			</array>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>A8FE6B9A971A49F390B02D3A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4C1A9159F0DE494DB1A6FBF0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>AC5F762F30754793ABE53D1C</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>1E09575154E7419892DDB078</string>
+				<string>2EF75879F831456C97901EFD</string>
+				<string>D7674F881A0045DBA3EB25AD</string>
+				<string>F6A181DC3A6D4DE897F3869A</string>
+				<string>D8D46717B9884CD385BEBA0D</string>
+				<string>86FDB81C22C74BFC8120F02A</string>
+				<string>C605278A359A4BBD96D721FC</string>
+				<string>4C1A9159F0DE494DB1A6FBF0</string>
+				<string>1CD7A0DED5DC4B4BACE6651B</string>
+				<string>8FCD5A20C2CE4866902C0F36</string>
+				<string>6169FE6D959148789075ACCD</string>
+				<string>3DB55986DC5C4E809FF8EB13</string>
+				<string>2C8703E3D9C34235BC34998B</string>
+				<string>F7C7C548BCD94C7AAC5779EA</string>
+				<string>7F73E680A94C45FB9A13BA59</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>iOS</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AD51138E34CE4D24BDBE3045</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8FCD5A20C2CE4866902C0F36</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>AFFF9FED3B2B46F8ACECC876</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>target</key>
+			<string>57205D72A9404BA5A799EFAC</string>
+			<key>targetProxy</key>
+			<string>23859877BE4141B5BB44B002</string>
+		</dict>
+		<key>B0B245D88C7C457EB589D515</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-OpenTokPhonegap.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B6DC34470DCF4988A9AB75EA</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>8FB3CB7250334EF29DEEB628</string>
+				<string>56305BEF506E458BB4F7F73F</string>
+				<string>5849048800054C76B1ABAC9F</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>OpenTokPhonegap</string>
+			<key>path</key>
+			<string>../../../OpenTokPhonegap</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B78956B88EAC4E128FA355C5</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>72BB60C1A35D4D7985754993</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>58DD3F0D4B7E4ADDA9BA8BCC</string>
+			<key>remoteInfo</key>
+			<string>Pods-OpenTokPhonegap</string>
+		</dict>
+		<key>B7A5F6B34C084A2FB156001C</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>2E69F6A2CB3D4CA294AFBEE6</string>
+				<string>33D0CEAB79DB423C8FD28F8E</string>
+				<string>97C863AAED2F4B3A8EDA4915</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B83D1F178837427A9C1D1DF1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D01D10E279CB42218A434B5C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>BA80BF8C5B4940178200BB61</key>
+		<dict>
+			<key>fileRef</key>
+			<string>1CD7A0DED5DC4B4BACE6651B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>BB9748C7711F4B6CAAB9C06D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>OTSubscriber.h</string>
+			<key>path</key>
+			<string>Opentok.framework/Versions/A/Headers/OTSubscriber.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BCE09D4477FF45A9AE2A4F19</key>
 		<dict>
 			<key>buildConfigurations</key>
 			<array>
-				<string>F543E4DD6F494ED0AF53B581</string>
-				<string>A7B80DC973A2476BBFF7DC81</string>
+				<string>6AF6E361D0BF4336A27D3B9D</string>
+				<string>599779E9A328443B8E2C8F49</string>
 			</array>
 			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
@@ -1654,27 +1424,27 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>EE0058A9AB934CBCAD2739C0</key>
+		<key>BD528D1C32EF48549C2A4EAE</key>
 		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreVideo.framework</string>
+			<string>text.xcconfig</string>
 			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework</string>
+			<string>Pods-OpenTokSDK-WebRTC-Private.xcconfig</string>
 			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F139BF079B4B43C8BFC83084</key>
+		<key>BDABF484A90240F5AFA3105E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>96D76A77604F40EE96AA0101</string>
+			<string>2EF75879F831456C97901EFD</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>F543E4DD6F494ED0AF53B581</key>
+		<key>BE666B485CF148CA9AE673D3</key>
 		<dict>
 			<key>buildSettings</key>
 			<dict>
@@ -1741,94 +1511,56 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>F64BEA23384643FDAB5005B5</key>
+		<key>C605278A359A4BBD96D721FC</key>
 		<dict>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>wrapper.framework</string>
 			<key>name</key>
-			<string>AudioToolbox.framework</string>
+			<string>CoreVideo.framework</string>
 			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AudioToolbox.framework</string>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework</string>
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>F6642F57B7DD4D098E1D0E24</key>
+		<key>CA7A9DDCF9C44B9E8A0784EA</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>Pods-resources.sh</string>
+			<string>Pods-OpenTokSDK-WebRTC-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F794F24BFBA544128EFFFE67</key>
+		<key>CAD26F4336E34992939310E6</key>
 		<dict>
-			<key>buildConfigurationList</key>
-			<string>58EB4C4B3D264148B0BBDB0F</string>
-			<key>buildPhases</key>
+			<key>buildConfigurations</key>
 			<array>
-				<string>AFB2FC02555D47ABA3E4EF07</string>
-				<string>BE892FF29EC54CDE9D724765</string>
+				<string>BE666B485CF148CA9AE673D3</string>
+				<string>420140061F6940C8B3BA5212</string>
 			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>5697475B3CB34B8D9BD90139</string>
-				<string>9B39E1E0AC034A9687BFD5E8</string>
-			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
 			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>productName</key>
-			<string>Pods</string>
-			<key>productReference</key>
-			<string>8491175FCB0F4C01995214F8</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
+			<string>XCConfigurationList</string>
 		</dict>
-		<key>F98A23C1317149519C87F721</key>
+		<key>CBC07A563BC24F14869BE970</key>
 		<dict>
-			<key>fileRef</key>
-			<string>EE0058A9AB934CBCAD2739C0</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXTargetDependency</string>
+			<key>target</key>
+			<string>58DD3F0D4B7E4ADDA9BA8BCC</string>
+			<key>targetProxy</key>
+			<string>B78956B88EAC4E128FA355C5</string>
 		</dict>
-		<key>FE4BC38E16324A14A5C4B1FA</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>B4B7CB18BD6344749EFE1C40</string>
-			<key>buildPhases</key>
-			<array>
-				<string>385553CC8F274C0CBD6006EC</string>
-				<string>6C7E54F9979242F187A1B555</string>
-				<string>251D59A5B0DC46B8A315ABAF</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>B3251633E7E44F38B061EB7D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-OpenTokPhonegap</string>
-			<key>productName</key>
-			<string>Pods-OpenTokPhonegap</string>
-			<key>productReference</key>
-			<string>D5BE9BF7C346486CB4F89708</string>
-			<key>productType</key>
-			<string>com.apple.product-type.library.static</string>
-		</dict>
-		<key>FF8DC6CEC2204D6194D58265</key>
+		<key>D01D10E279CB42218A434B5C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1837,14 +1569,282 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>name</key>
-			<string>OTError.h</string>
+			<string>OTSession.h</string>
 			<key>path</key>
-			<string>Opentok.framework/Versions/A/Headers/OTError.h</string>
+			<string>Opentok.framework/Versions/A/Headers/OTSession.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>D594BD449281481DA7E91FBF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Pods-OpenTokSDK-WebRTC.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D7674F881A0045DBA3EB25AD</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>CFNetwork.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>D8D46717B9884CD385BEBA0D</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>CoreMedia.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMedia.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>DE9879994AD448BE8432BEBD</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>A2714621430949CC83C43B38</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Targets Support Files</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E0E1F16BD0B949EFB2AF2526</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>BD528D1C32EF48549C2A4EAE</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ALWAYS_SEARCH_USER_PATHS</key>
+				<string>NO</string>
+				<key>COPY_PHASE_STRIP</key>
+				<string>YES</string>
+				<key>DSTROOT</key>
+				<string>/tmp/xcodeproj.dst</string>
+				<key>GCC_C_LANGUAGE_STANDARD</key>
+				<string>gnu99</string>
+				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Pods-OpenTokSDK-WebRTC-prefix.pch</string>
+				<key>GCC_VERSION</key>
+				<string>com.apple.compilers.llvm.clang.1_0</string>
+				<key>INSTALL_PATH</key>
+				<string>$(BUILT_PRODUCTS_DIR)</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>5.0</string>
+				<key>OTHER_CFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_CPLUSPLUSFLAGS</key>
+				<array>
+					<string>-DNS_BLOCK_ASSERTIONS=1</string>
+					<string>$(inherited)</string>
+				</array>
+				<key>OTHER_LDFLAGS</key>
+				<string></string>
+				<key>PRODUCT_NAME</key>
+				<string>$(TARGET_NAME)</string>
+				<key>PUBLIC_HEADERS_FOLDER_PATH</key>
+				<string>$(TARGET_NAME)</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>VALIDATE_PRODUCT</key>
+				<string>YES</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>E167CDC0A59C4A37BDBDACC6</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>723F2205E1E64F6C95343392</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>E1D445AA23844D15B866A1C1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Pods-OpenTokPhonegap-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E31EE81249914C588A68C290</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8FB3CB7250334EF29DEEB628</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E54B3DF6545942478EAEA4B8</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>B6DC34470DCF4988A9AB75EA</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Development Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E60AC6E3E892401897AC6DA2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2F72F6FA3754488FA4EBE52E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>EEE572DBD8BF42ED9367A2AF</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>54C9A55F240944A8B10C6D7E</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F1896998AD594518B9FF3125</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>name</key>
+			<string>Opentok.h</string>
+			<key>path</key>
+			<string>Opentok.framework/Versions/A/Headers/Opentok.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F1CEAC2CB4B4405C9095BC56</key>
+		<dict>
+			<key>fileRef</key>
+			<string>86FDB81C22C74BFC8120F02A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F60B0DA475B34FBEACE125F5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7F73E680A94C45FB9A13BA59</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>F6A181DC3A6D4DE897F3869A</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>CoreAudio.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreAudio.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>F7C448AC55A340C3BA64AEF5</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>E31EE81249914C588A68C290</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>F7C7C548BCD94C7AAC5779EA</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.framework</string>
+			<key>name</key>
+			<string>SystemConfiguration.framework</string>
+			<key>path</key>
+			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework</string>
+			<key>sourceTree</key>
+			<string>DEVELOPER_DIR</string>
+		</dict>
+		<key>F88E262AD98E499398E170DD</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>6B3931D8AC10446480C8A83A</string>
+				<string>42B7DDC4501F447CAA8E9B97</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>FA3BA64CE210499DBE9DFC6D</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>D594BD449281481DA7E91FBF</string>
+				<string>BD528D1C32EF48549C2A4EAE</string>
+				<string>CA7A9DDCF9C44B9E8A0784EA</string>
+				<string>5B3FB769D95042E0B3A50D16</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>sourceTree</key>
+			<string>SOURCE_ROOT</string>
+		</dict>
 	</dict>
 	<key>rootObject</key>
-	<string>71FDF5BA43EB48F083E04E95</string>
+	<string>72BB60C1A35D4D7985754993</string>
 </dict>
 </plist>

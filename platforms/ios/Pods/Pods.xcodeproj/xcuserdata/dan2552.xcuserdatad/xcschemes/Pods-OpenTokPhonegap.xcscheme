@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FE4BC38E16324A14A5C4B1FA"
+               BlueprintIdentifier = "58DD3F0D4B7E4ADDA9BA8BCC"
                BuildableName = "libPods-OpenTokPhonegap.a"
                BlueprintName = "Pods-OpenTokPhonegap"
                ReferencedContainer = "container:Pods.xcodeproj">

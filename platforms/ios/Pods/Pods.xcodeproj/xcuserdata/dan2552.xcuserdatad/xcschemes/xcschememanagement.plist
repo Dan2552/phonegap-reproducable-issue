@@ -8,37 +8,31 @@
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>1</integer>
 		</dict>
 		<key>Pods-OpenTokSDK-WebRTC.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>2</integer>
 		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2C3A1B3996A748C1BB44E8EC</key>
+		<key>57205D72A9404BA5A799EFAC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F794F24BFBA544128EFFFE67</key>
+		<key>58DD3F0D4B7E4ADDA9BA8BCC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FE4BC38E16324A14A5C4B1FA</key>
+		<key>6F84F70115CD46A58BC165C0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
