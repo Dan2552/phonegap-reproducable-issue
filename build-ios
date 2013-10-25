@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+app_name = "HelloWorld" # `pwd`.split("/").last
+
+puts "cleaning up"
+`rm -R platforms/`
+`mkdir platforms`
+puts "building #{app_name}"
+`phonegap build ios`
+`rm platforms/ios/#{app_name}/config.xml`
+puts "preparing pods"
+`cp www/config.xml platforms/ios/#{app_name}/`
+`cp Podfile platforms/ios`
+`cd platforms/ios/; pod install; open #{app_name}.xcworkspace`
+puts "complete!"

@@ -1,0 +1,17 @@
+PODS:
+  - OpenTokPhonegap (0.0.1):
+    - OpenTokSDK-WebRTC (= 2.1.5)
+  - OpenTokSDK-WebRTC (2.1.5)
+
+DEPENDENCIES:
+  - OpenTokPhonegap (from `../../OpenTokPhonegap`)
+
+EXTERNAL SOURCES:
+  OpenTokPhonegap:
+    :path: ../../OpenTokPhonegap
+
+SPEC CHECKSUMS:
+  OpenTokPhonegap: a24613f266c124e6a142bf2dcf532eb795470eeb
+  OpenTokSDK-WebRTC: 8fd3ac08c414c7bdbfeeff240e09f8f9de150b2c
+
+COCOAPODS: 0.27.1

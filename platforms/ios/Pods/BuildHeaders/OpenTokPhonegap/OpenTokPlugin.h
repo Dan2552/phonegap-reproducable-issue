@@ -1,0 +1,1 @@
+../../../../../OpenTokPhonegap/Classes/OpenTokPlugin.h
